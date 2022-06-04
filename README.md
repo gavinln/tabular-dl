@@ -30,6 +30,12 @@ This is a [discussion][210] of papers on deep learning for tabular data.
 
 [210]: https://m-clark.github.io/posts/2021-07-15-dl-for-tabular/
 
+## FastAI course on Tabular data
+
+Course 2020: https://walkwithfastai.com/Introduction
+
+Tabular data: https://walkwithfastai.com/tab.clas.binary
+
 ## Other
 
 https://keras.io/examples/structured_data/tabtransformer/
@@ -37,3 +43,11 @@ https://keras.io/examples/structured_data/tabtransformer/
 https://jrzaurin.github.io/infinitoml/
 
 https://blog.ml6.eu/transformers-for-tabular-data-hot-or-not-e3000df3ed46
+
+### Tabular data with embeddings
+
+https://towardsdatascience.com/how-to-gain-state-of-the-art-result-on-tabular-data-with-deep-learning-and-embedding-layers-d1eb6b83c52c
+
+https://towardsdatascience.com/the-right-way-to-use-deep-learning-for-tabular-data-entity-embedding-b5c4aaf1423a
+
+https://towardsdatascience.com/deeplearning-with-tabular-data-data-processing-cd2e73908257
